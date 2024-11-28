@@ -39,8 +39,11 @@ Provides dynamic animations that depict the changing drug concentration over tim
 
 **Adjustable Parameters:**
 
-D (Diffusion Coefficient): Controls the speed of diffusion.
-L (Tissue Length): Sets the simulated tissue depth.
-T (Total Simulation Time): Specifies how long the diffusion is observed.
+**D (Diffusion Coefficient):** Controls the speed of diffusion.
+**L (Tissue Length):** Sets the simulated tissue depth.
+**T (Total Simulation Time):** Specifies how long the diffusion is observed.
+
+
+https://github.com/user-attachments/assets/ad4cf356-7a76-432e-bbd4-1955e67e2ada
 
 
