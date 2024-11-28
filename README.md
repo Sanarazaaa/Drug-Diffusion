@@ -27,11 +27,18 @@ To set up the project, follow these steps:
    pip install numpy matplotlib
    ```
 
-## Usage
-To run the simulation, execute the following Python script:
-```bash
-import numpy as np
-import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation
-```
+## How It Works
+**Diffusion Model:**
+
+Simulates the diffusion process using the finite difference method to solve the diffusion equation.
+Models a tissue as a 1D spatial grid with user-defined parameters.
+**Visualization:**
+
+Provides dynamic animations that depict the changing drug concentration over time.
+**Adjustable Parameters:**
+
+D (Diffusion Coefficient): Controls the speed of diffusion.
+L (Tissue Length): Sets the simulated tissue depth.
+T (Total Simulation Time): Specifies how long the diffusion is observed.
+
 
