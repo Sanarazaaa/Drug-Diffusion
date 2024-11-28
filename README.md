@@ -8,4 +8,3 @@ This project simulates the diffusion of a drug through human tissues over time u
 - NumPy
 - Matplotlib
 
-You can install the required libraries using pip:
