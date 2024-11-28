@@ -32,6 +32,7 @@ To set up the project, follow these steps:
 
 Simulates the diffusion process using the finite difference method to solve the diffusion equation.
 Models a tissue as a 1D spatial grid with user-defined parameters.
+
 **Visualization:**
 
 Provides dynamic animations that depict the changing drug concentration over time.
