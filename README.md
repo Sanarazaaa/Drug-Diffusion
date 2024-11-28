@@ -35,6 +35,7 @@ Models a tissue as a 1D spatial grid with user-defined parameters.
 **Visualization:**
 
 Provides dynamic animations that depict the changing drug concentration over time.
+
 **Adjustable Parameters:**
 
 D (Diffusion Coefficient): Controls the speed of diffusion.
